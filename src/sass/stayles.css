@@ -20,9 +20,6 @@
   text-decoration: none;
 }
 
-.is-hidden {
-  display: none;
-}
 .photo-card {
   width: 100%;
   height: 100%;
@@ -61,6 +58,9 @@
   border-radius: 4px;
   color: #cfd8dc;
   background-color: #4582a1;
+}
+.is-hidden {
+  display: none;
 }
 .search-block {
   position: fixed;
